@@ -154,3 +154,7 @@ height: 500px;
     font-weight: bold;
     font-size: 17px;
 }
+.new button:hover{
+    font-size: 20px;
+    
+}
